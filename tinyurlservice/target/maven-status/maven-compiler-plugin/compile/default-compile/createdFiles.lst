@@ -1,0 +1,6 @@
+com\smfs\microservices\shorturl\LongURLConfiguration.class
+com\smfs\microservices\shorturl\ShortURLController.class
+com\smfs\microservices\shorturl\dao\ShortURLDAO.class
+com\smfs\microservices\shorturl\ShortURLConfiguration.class
+com\smfs\microservices\shorturl\URLShortenerService.class
+com\smfs\microservices\shorturl\ShortURLServiceApplication.class
